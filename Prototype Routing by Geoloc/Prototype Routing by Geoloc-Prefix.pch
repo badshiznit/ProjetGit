@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'Prototype Routing by Geoloc' target in the 'Prototype Routing by Geoloc' project
+//
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+#endif
